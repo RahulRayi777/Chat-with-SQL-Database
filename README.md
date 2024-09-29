@@ -27,3 +27,6 @@ This project is a Streamlit-based web application that allows users to interact 
    ```bash
    git clone https://github.com/your-repo/langchain-sql-chat.git
    cd langchain-sql-chat
+
+ ### Chat Interaction
+![Chat Interaction](./appss.png)
